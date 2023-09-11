@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Jacob Krell](mailto:jacob.krell@owasp.org)
+* [Gordon Krell](mailto:gordon.krell@owasp.org)
