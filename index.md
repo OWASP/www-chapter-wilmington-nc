@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Wilmington NC
 tags: example-tag
 region: North America
+country: USA
 meetup-group:
 
 ---
