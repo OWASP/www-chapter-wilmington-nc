@@ -2,17 +2,23 @@
 
 layout: col-sidebar
 title: OWASP Wilmington NC
-tags: example-tag
+tags: wilmington
 region: North America
 country: USA
 meetup-group:
-
+currency: usd
 ---
 
-## Welcome
-We are a newly formed Wilmington NC chapter. The tentative schedule is to have meetings/activities every other month. This will become more set as we grow in members. Plans are to have demonstrations, presentations, and general meetups at fun locations around the area.
 
-If you're in southeast NC or northeast SC and work in web application development or cyber security (or would like to) come network with fellow industry professionals, learn some cool tips and tricks and most importantly have some fun!
+
+## Welcome
+Welcome to the newly established OWASP Wilmington, NC Chapter! While we're just getting started, our vision is to host engaging meetings and activities every other month. As our chapter flourishes and our membership expands, we'll solidify our schedule for more frequent gatherings. Our plans are brimming with exciting prospects, including captivating demonstrations, informative presentations, and relaxed meetups at some of the area's most enjoyable locales.
+
+If you find yourself in the southeastern part of North Carolina or the northeastern region of South Carolina and are involved in web application development or cybersecurity (or if you aspire to be), we invite you to join us. Connect with fellow industry professionals, uncover valuable tips and tricks, and, above all, have a blast while doing it! The OWASP Wilmington, NC Chapter promises an enriching journey in web security, networking, and good times.
+
+Chapter Supporters
+----------------
+The OWASP Wilmington, NC Chapter is on the lookout for its very first supporter! As this dedicated group of cybersecurity enthusiasts charts its course in the realm of web application security, they are eagerly seeking a pioneering partner to join them on this exciting journey. This supporter will play a pivotal role in shaping the future of cybersecurity in the Wilmington area, helping to foster knowledge-sharing, networking, and innovation. If you're passionate about web application security and eager to make a meaningful impact, consider being the first to stand alongside the OWASP Wilmington, NC Chapter as they set out to make waves in the world of cybersecurity. Your support can help build a strong foundation for a brighter, more secure digital future!
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
