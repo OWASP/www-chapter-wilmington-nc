@@ -10,7 +10,8 @@
 * [Linkedin](https://www.linkedin.com/groups/14301784/)
 * [Meetup.com](https://www.meetup.com/OWASP-Wilmington/)
 * [Discord](https://discord.gg/dbpJn8sEgG)
-* [YouTube](https://www.youtube.com/channel/UC-CfoAEpdpkB_jYrydYrqSA)
+* [YouTube](https://www.youtube.com/channel/UC8hkj8GgknnsyB-b0D_zp3g)
+* [Twitter](https://twitter.com/OWASPWilmington)
 
 ### Code Repository
 * [Page Repo](https://github.com/OWASP/www-chapter-wilmington-nc)
