@@ -5,7 +5,7 @@ displaytext: Next Event
 layout: null
 tab: true
 order: 1
-tags: Wilmington
+tags: wilmington
 
 ---
 
