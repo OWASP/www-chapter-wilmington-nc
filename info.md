@@ -9,7 +9,7 @@
 * [Facebook](https://www.facebook.com/groups/684855553291325/)
 * [Linkedin](https://www.linkedin.com/groups/14301784/)
 * [Meetup.com](https://www.meetup.com/OWASP-Wilmington/)
-* [Discord]((https://discord.gg/dbpJn8sEgG))
+* [Discord](https://discord.gg/dbpJn8sEgG)
 * [YouTube](https://www.youtube.com/channel/UC-CfoAEpdpkB_jYrydYrqSA)
 
 ### Code Repository
