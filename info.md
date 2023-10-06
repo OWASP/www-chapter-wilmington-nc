@@ -1,12 +1,16 @@
-### Wilmington NC Information
-Newly formed Wilmington NC chapter. The tentative schedule is to have meetings/activities every other month. This will become more set as we grow in members. Plans are to have demonstrations, presentations, and general meetups at fun locations  around the area. 
-
-If you're in southeast NC or northeast SC and work in web application development or cyber security (or would like to)  come network with fellow industry professionals,  learn some cool tips and tricks and most importantly have some fun! 
-
+### Wilmington Information
+* [Become a Member](https://www.owasp.org/index.php/Membership)
+* [Join Our Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/wilmington-chapter)
+* [Local Chapter Support](https://owasp.org/donate)
+* [Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement)
+* [Code of Conduct](https://owasp.org/www-policy/operational/conferences-events.html)
 
 ### Social Links
-* [Meetup](#)
-* Linked-in Group: https://www.linkedin.com/groups/14301784/
-* Discord server: https://discord.gg/j8GnjwFPeW
+* [Facebook](https://www.facebook.com/groups/684855553291325/)
+* [Linkedin](https://www.linkedin.com/groups/14301784/)
+* [Meetup.com](https://www.meetup.com/OWASP-Wilmington/)
+* [Discord]((https://discord.gg/dbpJn8sEgG))
+* [YouTube](https://www.youtube.com/channel/UC-CfoAEpdpkB_jYrydYrqSA)
 
-
+### Code Repository
+* [Page Repo](https://github.com/OWASP/www-chapter-wilmington-nc)
