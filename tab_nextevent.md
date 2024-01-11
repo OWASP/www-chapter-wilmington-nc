@@ -23,7 +23,7 @@ Also join the discord server to interact with fellow members [Discord](https://d
 ---
 OWASP Wilmington Chapter upcoming events can be found on Meetup:
 
-[https://www.meetup.com/OWASP-London/](https://www.meetup.com/OWASP-Wilmington/)
+[Meetup - Wilmington, NC ](https://www.meetup.com/owasp-wilmington-nc-chapter)
 
 ---
 {% include chapter_events.html group=page.meetup-group %}
